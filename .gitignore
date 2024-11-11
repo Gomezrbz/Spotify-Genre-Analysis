@@ -1,3 +1,5 @@
 # Exclude environment variables
 .env
 spotify_venv/
+
+git remote add origin https://github.com/username/repository-name.git
